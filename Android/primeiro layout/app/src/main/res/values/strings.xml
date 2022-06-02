@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ex 02-06</string>
+    <string name="bem_vindo_ao_aplicativo">Bem vindo ao Aplicativo</string>
+    <string name="mantenha_me_conectado">mantenha-me conectado</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="email">Email</string>
+</resources>
